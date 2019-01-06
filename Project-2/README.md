@@ -25,3 +25,6 @@ I was responsible for creating a new user and displaying information for members
 ## Technologies Used
 * EC2, Agile, S3, RDS, Continuous Integration, Spring, Angular, HTML5, Bootstrap, Java
 
+## Git Repositories
+* https://github.com/1810-oct22-java/fanatic-client
+* https://github.com/1810-oct22-java/fanatic
